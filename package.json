@@ -12,6 +12,5 @@
   "license": "ISC",
   "homepage": "https://zzelga.github.io",
   "dependencies": {
-    "bootstrap": "^5.1.0"
   }
 }
