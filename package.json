@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "deploy": "gh-pages -d zzelga.github.io"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zzelga/zzelga.github.io.git"
@@ -14,6 +12,6 @@
   "license": "ISC",
   "homepage": "https://zzelga.github.io",
   "dependencies": {
-    "gh-pages": "^3.2.3"
+    "bootstrap": "^5.1.0"
   }
 }
